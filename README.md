@@ -4,7 +4,7 @@
 
 
 1. Post a selfie
-![alt text][https://github.com/ece-09363/hello-world-ambrosen8/blob/master/Assets/Selfie.jpg]
+![alt text][https://github.com/ece-09363/hello-world-ambrosen8/blob/master/Assets/Selfie.jpg "Selfie"]
 
 
 2. Tell me something interesting about yourself
